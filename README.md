@@ -1,2 +1,2 @@
 # imgbed
-just for my image
+just for my images
